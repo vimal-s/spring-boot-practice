@@ -1,5 +1,6 @@
-package com.example.restservice.hello;
+package com.example.restservice.resourceController;
 
+import com.example.restservice.resource.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
