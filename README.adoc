@@ -1,12 +1,8 @@
-# spring-boot-practice
+A "hello world" RESTful web service with Spring.
 
-:toc:
+== What it does
 
-Created a "hello world" RESTful web service with Spring.
-
-== What you'll build
-
-A service that will accept HTTP GET requests at:
+Accepts HTTP GET requests at:
 
 ....
 http://localhost:8080/greeting
@@ -19,7 +15,7 @@ and respond with a JSON representation of a greeting:
 {"id":1,"content":"Hello, World!"}
 ----
 
-Custom greeting with an optional `name` parameter in the query string:
+Also supported custom greeting with an optional `name` parameter in the query string:
 
 ----
 http://localhost:8080/greeting?name=User
