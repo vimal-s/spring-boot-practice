@@ -8,7 +8,7 @@ Check each project to see its details and instructions. /*Every project can be c
 
 - [Rest Service](rest-service/README.adoc)
 - [Consuming Rest Service](https://github.com/vimal-s/consuming-rest-service/blob/master/README.adoc)
-- []()
+- [Accessing Data with JPA](https://github.com/vimal-s/accessing-data-with-jpa/blob/master/README.adoc)
 
 ## Dependencies
 
